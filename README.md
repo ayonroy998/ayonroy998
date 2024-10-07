@@ -1,6 +1,6 @@
 ![Masterhead](https://camo.githubusercontent.com/9c116e40d5417f6f876017823bc844f3945a28c75b565002a888ef6b06657a11/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64626f7278633533312f696d6167652f75706c6f61642f76313637353030373131302f42616e6e6572732f6769746875625f62616e6e65725f776964655f766933347a6f2e676966)
 <h1 align="center">Hi 👋, I'm Ayon Roy</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate frontend web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayonroy998&label=Profile%20views&color=0e75b6&style=flat" alt="ayonroy998" /> </p>
