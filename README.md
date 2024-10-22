@@ -1,4 +1,4 @@
-![Masterhead](https://www.gamelab.id/uploads/modules/3%20(8).jpg?1638853694406)
+![Masterhead](https://assets.owebest.com/files/Blogs/bg_img/4f3a2b1f5d56d05af5e7c16053d31bbd/blog-banner(22).jpg)
 <h1 align="center">Hi 👋, I'm Ayon Roy</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
